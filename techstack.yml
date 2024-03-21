@@ -1,0 +1,1294 @@
+repo_name: caseyspaulding/azure-saas
+report_id: d84bd6492c80a9e92c3e7890a95b7126
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-21T13:28:40+00:00'
+requested_by: 1iveowl
+provider: github
+branch: main
+detected_tools_count: 92
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/caseyspaulding/azure-saas
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Dockerfile
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Dockerfile
+  last_updated_by: Brandon Martinez
+  last_updated_on: 2022-05-16 15:06:34.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/TestUtilities/TestUtilities.csproj
+  detection_source: src/TestUtilities/TestUtilities.csproj
+  last_updated_by: asanjabi
+  last_updated_on: 2022-02-13 05:16:18.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Client/Saas.Admin.Client.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Client/Saas.Admin.Client.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Client/Saas.Admin.Client.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Client/Saas.Admin.Client.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/package.json
+  detection_source: docs/azure-saas-docs/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/nuget/bootstrap.nuspec
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: Entity Framework
+  description: An object-relational mapper that enables .NET developers to work with
+    relational data
+  website_url: https://docs.microsoft.com/en-us/aspnet/entity-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Entity Framework Core
+  description: Lightweight and cross-platform version of the popular Entity Framework
+  website_url: https://docs.microsoft.com/en-us/ef/core/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.15.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/.babelrc.js
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/.github/workflows/admin-service-api-deploy.yml
+  detection_source: ".github/workflows/admin-service-api-deploy.yml"
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-03-19 14:54:50.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 6.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/TestUtilities/TestUtilities.csproj
+  detection_source: src/TestUtilities/TestUtilities.csproj
+  last_updated_by: asanjabi
+  last_updated_on: 2022-02-13 03:24:01.000000000 Z
+- name: Polly
+  description: A .NET resilience and transient-fault-handling library
+  website_url: http://www.thepollyproject.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Fault Tolerance Tools
+  image_url: https://img.stackshare.io/service/10882/default_8657bb75f24d5f46b223b0a61477221141a8874a.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Identity/Saas.Permissions/Saas.Permissions.Service_v1.1/Saas.Permissions.Service.csproj
+  detection_source: src/Saas.Identity/Saas.Permissions/Saas.Permissions.Service_v1.1/Saas.Permissions.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-22 21:58:42.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  version: 2.17.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 7.5.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 13.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.sln
+  detection_source: src/Saas.Admin/Saas.Admin.sln
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-01-29 10:16:31.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.4.2
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service.Tests/Saas.Admin.Service.Tests.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service.Tests/Saas.Admin.Service.Tests.csproj
+  last_updated_by: asanjabi
+  last_updated_on: 2022-03-08 19:08:03.000000000 Z
+- name: Netlify
+  description: Build, deploy and host your static site or app with a drag and drop
+    interface and automatic delpoys from GitHub or Bitbucket
+  website_url: https://www.netlify.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/netlify.toml
+  detection_source: docs/azure-saas-docs/themes/docsy/netlify.toml
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Dockerfile
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Dockerfile
+  last_updated_by: Brandon Martinez
+  last_updated_on: 2022-05-16 15:06:34.000000000 Z
+- name: Firefox
+  description: Mozilla's Web Browser
+  website_url: https://www.mozilla.org/en-US/firefox/
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Web Browser
+  image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  version: 5.15.4
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: JSON Web Token
+  description: A JSON-based open standard for creating access tokens
+  website_url: http://jwt.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/6417/jwt-icon.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: OpenID Connect
+  description: An authorization framework
+  website_url: http://openid.net/connect/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/3620/openid-icon-250x250_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-15 17:25:43.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Lib/Deployment.Container/Dockerfile
+  detection_source: src/Saas.Lib/Deployment.Container/Dockerfile
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-01-05 10:28:08.000000000 Z
+- name: "@babel/cli"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/cli
+  version: 7.15.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.15.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.15.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: "@fortawesome/fontawesome-free"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-free
+  version: 5.15.4
+  license: CC-BY-4.0,OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17170/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: "@rollup/plugin-node-resolve"
+  description: Locate and bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
+  version: 13.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: babel-plugin-istanbul
+  description: A babel plugin that adds istanbul instrumentation to ES6 code
+  package_url: https://www.npmjs.com/babel-plugin-istanbul
+  version: 6.1.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16032/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: clean-css-cli
+  description: A command-line interface to clean-css CSS optimization library
+  package_url: https://www.npmjs.com/clean-css-cli
+  version: 5.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18113/image.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: eslint-config-xo
+  description: ESLint shareable config for XO
+  package_url: https://www.npmjs.com/eslint-config-xo
+  version: 0.39.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16573/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.25.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: eslint-plugin-unicorn
+  description: Various awesome ESLint rules
+  package_url: https://www.npmjs.com/eslint-plugin-unicorn
+  version: 37.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16871/default_2e3ed47575edcaf407097e6171e3d4cb8681a6b3.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: globby
+  description: User-friendly glob matching
+  package_url: https://www.npmjs.com/globby
+  version: 12.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16159/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/package-lock.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  version: 1.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+  vulnerabilities:
+  - name: NPM IP package incorrectly identifies some private IP addresses as public
+    cve_id: CVE-2023-42282
+    cve_url: https://github.com/advisories/GHSA-78xj-cgh5-2h22
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 1.1.9
+- name: karma-browserstack-launcher
+  description: A Karma plugin. Launch any browser on BrowserStack!
+  package_url: https://www.npmjs.com/karma-browserstack-launcher
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17310/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: karma-coverage-istanbul-reporter
+  description: A karma reporter that uses the latest istanbul 1.x APIs
+  package_url: https://www.npmjs.com/karma-coverage-istanbul-reporter
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: karma-detect-browsers
+  description: Karma runner plugin for detecting all browsers installed on the current
+    system
+  package_url: https://www.npmjs.com/karma-detect-browsers
+  version: 2.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17824/default_406cd74505018958e256af1ce55ae768c8a35f72.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: karma-firefox-launcher
+  description: A Karma plugin. Launcher for Firefox
+  package_url: https://www.npmjs.com/karma-firefox-launcher
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16026/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: karma-qunit
+  description: A Karma plugin. Adapter for QUnit testing framework
+  package_url: https://www.npmjs.com/karma-qunit
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17515/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: karma-sinon
+  description: Sinon for Karma
+  package_url: https://www.npmjs.com/karma-sinon
+  version: 1.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16601/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: postcss-cli
+  description: CLI for PostCSS
+  package_url: https://www.npmjs.com/postcss-cli
+  version: 9.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16326/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/package-lock.json
+  detection_source: docs/azure-saas-docs/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.8.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: terser
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/terser
+  version: 5.9.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  detection_source: docs/azure-saas-docs/themes/docsy/assets/vendor/bootstrap/package.json
+  last_updated_by: Landon Pierce
+  last_updated_on: 2022-03-15 18:36:38.000000000 Z
+  vulnerabilities:
+  - name: Terser insecure use of regular expressions leads to ReDoS
+    cve_id: CVE-2022-25858
+    cve_url: https://github.com/advisories/GHSA-4wf5-vphf-c2xc
+    detected_date: Jul 20
+    severity: high
+    first_patched: 5.14.2
+- name: AutoFixture.Xunit2
+  description: By leveraging the data theory feature of xUnit.net, this extension
+    turns AutoFixture into a declarative framework for writing unit tests
+  package_url: https://www.nuget.org/AutoFixture.Xunit2
+  version: 4.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14367/default_90e7ce697521dd13e8eb643d3771c2a0e4e6d561.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/TestUtilities/TestUtilities.csproj
+  detection_source: src/TestUtilities/TestUtilities.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Humanizer
+  description: Humanizer meets all your .NET needs for manipulating and displaying
+    strings
+  package_url: https://www.nuget.org/Humanizer
+  version: 2.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13308/default_a905ee276a536c55784ed56585a51a44d19b6d5b.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Application/Saas.Application.Web/Saas
+    - Backup.Application.Web.csproj
+  detection_source: src/Saas.Application/Saas.Application.Web/Saas - Backup.Application.Web.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.ApplicationInsights.AspNetCore
+  description: Application Insights for ASP.NET Core web applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.AspNetCore
+  version: 2.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13203/default_e23dabba1be2c69fbf5fc50bdc46cbffbe6ca2cb.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.AspNetCore.Authentication
+  description: ASP.NET Core common types used by the various authentication middleware
+    components
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authentication
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13057/default_1b8be57b16f1f491c0e5f67e5d1021f4df68ea30.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Lib/Saas.Identity/Saas.Identity.csproj
+  detection_source: src/Saas.Lib/Saas.Identity/Saas.Identity.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.AspNetCore.Authentication.JwtBearer
+  description: ASP.NET Core middleware that enables an application to receive an OpenID
+    Connect bearer token
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authentication.JwtBearer
+  version: 7.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12968/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.AspNetCore.Authentication.OpenIdConnect
+  description: ASP.NET Core middleware that enables an application to support the
+    OpenID Connect authentication workflow
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authentication.OpenIdConnect
+  version: 7.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13385/default_97f005023342604c2e0668a9597b9eb6971b1d06.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.AspNetCore.Authorization
+  description: ASP.NET Core authorization classes
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authorization
+  version: 7.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13034/default_1075538f3811f68c42abfdf5ebcf152058e4076d.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.AspNetCore.Http
+  description: ASP.NET Core default HTTP feature implementations
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Http
+  version: 2.2.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12937/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Lib/Saas.Authorization/Saas.AspNetCore.Authorization/Saas.AspNetCore.Authorization.csproj
+  detection_source: src/Saas.Lib/Saas.Authorization/Saas.AspNetCore.Authorization/Saas.AspNetCore.Authorization.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-15 17:25:43.000000000 Z
+- name: Microsoft.AspNetCore.Http.Abstractions
+  description: ASP.NET Core HTTP object model for HTTP requests and responses and
+    also common extension methods for registering middleware in an IApplicationBuilder
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Http.Abstractions
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12884/default_485731cffe5047176f704e34ccfabc7dc075f3d9.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/TestUtilities/TestUtilities.csproj
+  detection_source: src/TestUtilities/TestUtilities.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-15 17:25:43.000000000 Z
+- name: Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
+  description: Runtime compilation support for Razor views and Razor Pages in ASP.NET
+    Core MVC
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
+  version: 7.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14475/default_e2210dba7a410b29af824a406b1ff3bc92763715.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.SignupAdministration/Saas.SignupAdministration.Web/Saas
+    - Backup.SignupAdministration.Web.csproj
+  detection_source: src/Saas.SignupAdministration/Saas.SignupAdministration.Web/Saas
+    - Backup.SignupAdministration.Web.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.AspNetCore.Routing.Abstractions
+  description: ASP.NET Core abstractions for routing requests to application logic
+    and for generating links
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Routing.Abstractions
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13517/default_83bd69dd2d30bd3eae917c5ac8376fd500016904.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Lib/Saas.Authorization/Saas.AspNetCore.Authorization/Saas.AspNetCore.Authorization.csproj
+  detection_source: src/Saas.Lib/Saas.Authorization/Saas.AspNetCore.Authorization/Saas.AspNetCore.Authorization.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-15 17:25:43.000000000 Z
+- name: Microsoft.AspNetCore.Session
+  description: ASP.NET Core session state middleware
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Session
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13467/default_9bed24fda7c43823a3e1a93400ac800e54f4524c.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.SignupAdministration/Saas.SignupAdministration.Web/Saas
+    - Backup.SignupAdministration.Web.csproj
+  detection_source: src/Saas.SignupAdministration/Saas.SignupAdministration.Web/Saas
+    - Backup.SignupAdministration.Web.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.Azure.Cosmos
+  description: This client library enables client applications to connect to Azure
+    Cosmos via the SQL API
+  package_url: https://www.nuget.org/Microsoft.Azure.Cosmos
+  version: 3.32.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13818/default_9a5106eb12c4ebe5afcbb9137e22a4905607a12f.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.SignupAdministration/Saas.SignupAdministration.Web/Saas
+    - Backup.SignupAdministration.Web.csproj
+  detection_source: src/Saas.SignupAdministration/Saas.SignupAdministration.Web/Saas
+    - Backup.SignupAdministration.Web.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.EntityFrameworkCore
+  description: Entity Framework Core is a lightweight and extensible version of the
+    popular Entity Framework data access technology
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore
+  version: 7.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12852/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Identity/Saas.Permissions/Saas.Permissions.Service_v1.1/Saas.Permissions.Service.csproj
+  detection_source: src/Saas.Identity/Saas.Permissions/Saas.Permissions.Service_v1.1/Saas.Permissions.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.EntityFrameworkCore.InMemory
+  description: In-memory database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.InMemory
+  version: 7.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13150/default_81ac985912284073db895b0d26abf3657532a164.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service.Tests/Saas.Admin.Service.Tests.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service.Tests/Saas.Admin.Service.Tests.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.EntityFrameworkCore.SqlServer
+  description: Microsoft SQL Server database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer
+  version: 7.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Tools
+  description: Entity Framework Core Tools for the NuGet Package Manager Console in
+    Visual Studio
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Tools
+  version: 7.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.Extensions.Configuration.Abstractions
+  description: Abstractions of key-value pair based configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Abstractions
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12885/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Lib/Saas.Authorization/Saas.AspNetCore.Authorization/Saas.AspNetCore.Authorization.csproj
+  detection_source: src/Saas.Lib/Saas.Authorization/Saas.AspNetCore.Authorization/Saas.AspNetCore.Authorization.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-15 17:25:43.000000000 Z
+- name: Microsoft.Extensions.DependencyInjection
+  description: Default implementation of dependency injection for Microsoft.Extensions.DependencyInjection
+  package_url: https://www.nuget.org/Microsoft.Extensions.DependencyInjection
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12846/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Lib/Saas.Authorization/Saas.AspNetCore.Authorization/Saas.AspNetCore.Authorization.csproj
+  detection_source: src/Saas.Lib/Saas.Authorization/Saas.AspNetCore.Authorization/Saas.AspNetCore.Authorization.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-15 17:25:43.000000000 Z
+- name: Microsoft.Extensions.Options.ConfigurationExtensions
+  description: Provides additional configuration specific functionality related to
+    Options
+  package_url: https://www.nuget.org/Microsoft.Extensions.Options.ConfigurationExtensions
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12882/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Lib/Saas.Authorization/Saas.AspNetCore.Authorization/Saas.AspNetCore.Authorization.csproj
+  detection_source: src/Saas.Lib/Saas.Authorization/Saas.AspNetCore.Authorization/Saas.AspNetCore.Authorization.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-15 17:25:43.000000000 Z
+- name: Microsoft.Graph
+  description: Microsoft Graph Client Library allows you to call Office 365
+  package_url: https://www.nuget.org/Microsoft.Graph
+  version: 4.54.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13825/default_a88c0c2b8529cb0ebe06083548bbf3d816d8d255.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Identity/Saas.Permissions/Saas.Permissions.Service_v1.1/Saas.Permissions.Service.csproj
+  detection_source: src/Saas.Identity/Saas.Permissions/Saas.Permissions.Service_v1.1/Saas.Permissions.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Microsoft.VisualStudio.Web.CodeGeneration.Design
+  description: Code Generation tool for ASP.NET Core
+  package_url: https://www.nuget.org/Microsoft.VisualStudio.Web.CodeGeneration.Design
+  version: 7.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13477/default_eb78542773998d1500f13778aa04738ef49376bd.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: Swashbuckle.AspNetCore
+  description: Swagger tools for documenting APIs built on ASP.NET Core
+  package_url: https://www.nuget.org/Swashbuckle.AspNetCore
+  version: 6.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service/Saas.Admin.Service.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-17 23:27:28.000000000 Z
+- name: System.ComponentModel.TypeConverter
+  description: Provides the System.ComponentModel.TypeConverter class, which represents
+    a unified way of converting types of values to other types
+  package_url: https://www.nuget.org/System.ComponentModel.TypeConverter
+  version: 4.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12989/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/TestUtilities/TestUtilities.csproj
+  detection_source: src/TestUtilities/TestUtilities.csproj
+  last_updated_by: asanjabi
+  last_updated_on: 2022-02-13 03:24:01.000000000 Z
+- name: xunit.assert
+  description: Includes the assertion library from xUnit.net
+  package_url: https://www.nuget.org/xunit.assert
+  version: 2.4.2
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13418/default_de77a8370e47861dfbe30f06e25c22916ed609b5.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/TestUtilities/TestUtilities.csproj
+  detection_source: src/TestUtilities/TestUtilities.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-02-23 13:05:49.000000000 Z
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.4.5
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/caseyspaulding/azure-saas/blob/main/src/Saas.Admin/Saas.Admin.Service.Tests/Saas.Admin.Service.Tests.csproj
+  detection_source: src/Saas.Admin/Saas.Admin.Service.Tests/Saas.Admin.Service.Tests.csproj
+  last_updated_by: Jasper Hedegaard Bojsen
+  last_updated_on: 2023-01-29 10:16:31.000000000 Z
